@@ -1,0 +1,4 @@
+{
+    "name": "Check PR Convention",
+    "description": "조직의 PR 컨벤션 (Rebase 후 PR 요청)을 체크하는 Action입니다"
+}
