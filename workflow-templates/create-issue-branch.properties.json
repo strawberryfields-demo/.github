@@ -1,0 +1,4 @@
+{
+    "name": "Create Issue Branch",
+    "description": "Issue 생성시 자동으로 브랜치를 만들어주는 Action입니다"
+}
